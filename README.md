@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Pizza Fan
+- 👀 I’m interested in coding
+- 🌱 I'm currently coding
+- 💞️ I love coding
+- 📫 How to reach me? Coding.
